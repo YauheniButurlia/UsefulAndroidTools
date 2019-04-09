@@ -2,7 +2,7 @@ import java.net.*;
 import java.io.*;
 import javax.net.ssl.HttpsURLConnection;
 
-public class ImageDown {
+public class RandomUserAvatarGeneretor {
   public static void main(String[] args) throws Exception {
     int amount = 1;
     if(args.length != 0){
